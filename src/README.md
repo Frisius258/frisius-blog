@@ -1,14 +1,14 @@
 ---
 home: true
 icon: house
-title: Frisius's Personal Website
+title: Frisius个人博客
 heroImage: https://avatars.githubusercontent.com/u/333284329?s=400&u=82406d72c172a864b652a783f4b2ddaff34fd84e
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: Frisius
-tagline: Learning, thinking, and creating
+tagline: 学习与思考
 actions:
   - text: Learning Notes
     icon: book
@@ -21,13 +21,13 @@ actions:
 highlights:
   - header: Learning and Exploration
     description: Turning what I learn and discover into reusable knowledge.
-    image: https://theme-hope-assets.vuejs.press/bg/2-light.svg
+    # image: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
     features:
-      - title: Topics
+      - title: 资料
         icon: lightbulb
-        details: Notes on technology, tools, ideas, and anything worth remembering
+        details: 个人笔记与感想
         link: ./guide/
       - title: Projects
         icon: code
@@ -36,7 +36,7 @@ highlights:
 
   - header: Keep Recording
     description: A flexible personal space for learning, creating, and sharing.
-    image: https://theme-hope-assets.vuejs.press/bg/5-light.svg
+    # image: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
     bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
     highlights:
