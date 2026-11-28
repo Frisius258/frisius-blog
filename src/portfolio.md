@@ -2,7 +2,7 @@
 home: true
 portfolio: true
 title: About Me
-icon: house
+icon: user
 name: Frisius
 avatar: https://s41.ax1x.com/2026/11/22/pnLNWQJ.png
 

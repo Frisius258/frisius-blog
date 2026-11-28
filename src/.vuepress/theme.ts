@@ -14,7 +14,11 @@ export default hopeTheme({
     description: "记录学习、思考与创作",
   },
 
-  logo: "https://avatars.githubusercontent.com/u/333284329?s=400&u=82406d72c172a864b652a783f4b2ddaff34fd84e",
+  logo: "/logo.png",
+  navbarTitle: "Frisius的个人博客",
+
+  repo: "https://github.com/Frisius258",
+  repoLabel: "GitHub",
 
   docsDir: "src",
 
@@ -113,6 +117,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    search: true,
 
     components: {
       components: ["Badge", "VPCard"],
